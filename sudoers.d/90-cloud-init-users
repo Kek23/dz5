@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~20.04.3 on Tue, 04 Oct 2022 16:58:31 +0000
+
+# User rules for user
+user ALL=(ALL) NOPASSWD:ALL
